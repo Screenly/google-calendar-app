@@ -1,4 +1,8 @@
+[![Version](https://img.shields.io/github/v/release/Screenly/google-calendar-app)](https://github.com/Screenly/google-calendar-app/releases/latest)
+
 # Screenly Google Calendar App
+
+![Google Calendar App Preview](/screenshots/daily-1920x1080.webp)
 
 ## Getting Started
 
